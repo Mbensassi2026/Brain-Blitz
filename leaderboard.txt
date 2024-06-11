@@ -1,0 +1,3 @@
+username1,100
+username2,95
+username3,90

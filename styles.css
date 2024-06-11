@@ -1,0 +1,100 @@
+body {
+    font-family: 'Press Start 2P', cursive;
+    background-color: #347deb;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.container {
+    background-color: white;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    width: 80%;
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+}
+
+#main-section {
+    width: 50%;
+    text-align: center;
+}
+
+#leaderboard-section {
+    width: 20%;
+    text-align: left;
+}
+
+#question-list-container {
+    width: 25%;
+    text-align: left;
+}
+
+h1 {
+    font-weight: bold;
+    margin-bottom: 20px;
+}
+
+input {
+    padding: 10px;
+    width: calc(100% - 22px);
+    margin-bottom: 10px;
+}
+
+button {
+    padding: 10px;
+    width: 100%;
+    background-color: #007BFF;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #0056b3;
+}
+
+.hidden {
+    display: none;
+}
+
+#choices button {
+    margin: 5px;
+    padding: 10px;
+    width: 100%;
+    background-color: #28a745;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+#choices button:hover {
+    background-color: #218838;
+}
+
+#choices button:disabled {
+    cursor: not-allowed;
+}
+
+#score {
+    position: absolute;
+    top: 10px;
+    right: 10px;
+    font-size: 16px;
+}
+
+#final-score {
+    font-size: 24px;
+    margin-top: 20px;
+}
+
+#question-list-container ol {
+    padding-left: 20px;
+}
