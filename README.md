@@ -1,2 +1,18 @@
-Brain Blitz is a versatile and interactive multiplayer trivia game aimed at college students and trivia enthusiasts alike. This project will use Java's programming capabilities to create a dynamic gaming experience where users can test their general knowledge in a competitive environment. Brain Blitz is built upon a diverse question database that spans multiple topics, including history, science, geography, and pop culture, ensuring that every game is both challenging and educational. The game's architecture supports real-time interactions and scoring, encouraging players to respond with both speed and accuracy to gain points and climb the leaderboard.
-Each player's journey is tracked through personalized accounts that detail their achievements. These profiles are important to create a competitive site and spotlight the importance of the leaderboard. Social features will be integrated into Brain Blitz, allowing students to challenge classmates, and share results on social media. The primary objective of this Java project is to demonstrate the practical application of programming skills in creating an engaging and functional application. Brain Blitz aims to merge education with entertainment, providing a platform that is as informative as it is enjoyable.
+🧠 Brain Blitz - Multiplayer Trivia Game
+
+Test your knowledge, challenge your friends, and climb the leaderboard!
+
+Welcome to Brain Blitz, an interactive multiplayer trivia game built with Java, designed for college students and trivia enthusiasts! This project combines education with entertainment, offering a dynamic gaming experience that tests players' general knowledge across various topics.
+
+<!-- Optional: Include screenshots or GIFs of your game -->
+
+🎯 Project Overview
+
+Brain Blitz challenges players to answer questions quickly and accurately in real-time, with the goal of climbing the leaderboard and outsmarting opponents. Our question database covers a wide range of topics, ensuring every round is fresh, fun, and educational.
+
+Features:
+🌍 Diverse Topics: History, science, pop culture, and more!
+⚔️ Real-Time Multiplayer: Compete against friends or random opponents in real-time.
+🏆 Leaderboard: Track your progress and climb the ranks.
+👤 Personalized Profiles: View your achievements and statistics.
+💬 Social Features: Challenge your friends and share your results on social media.
