@@ -4,6 +4,7 @@ Test your knowledge, challenge your friends, and climb the leaderboard!
 
 Welcome to Brain Blitz, an interactive multiplayer trivia game built with Java, designed for college students and trivia enthusiasts! This project combines education with entertainment, offering a dynamic gaming experience that tests players' general knowledge across various topics.
 
+<img width="690" alt="image" src="https://github.com/user-attachments/assets/fb52901d-c144-402f-826d-a0a7999c65fc">
 
 🎯 Project Overview
 
